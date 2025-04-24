@@ -58,7 +58,7 @@ To run this project locally:
 1. Clone the repo:
    ```bash
    git clone https://github.com/saadusm93/AirQualityHealthIndex-Calgary.git 
-   cd aqhi-forecasting
+   cd AirQualityHealthIndex-Calgary
 
 2. Create a virtual environment and install dependencies:
    ```bash python -m venv venv
@@ -66,7 +66,7 @@ To run this project locally:
    venv\Scripts\activate (Windows)
    pip install -r requirements.txt
 
-4. Run the Streamlit app:
+4. Use CMD or Conda Prompt to navigate to where you stored the streamlit app script and run the Streamlit app:
    ```bash
    streamlit run streamlit_app.py
 
