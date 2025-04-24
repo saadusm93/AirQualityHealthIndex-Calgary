@@ -1,6 +1,8 @@
 # AirQualityHealthIndex-Calgary
 A streamlit app that uses SARIMAX to predict air quality in Calgary for the next 'n' days. 
 
+![Image](https://github.com/user-attachments/assets/81b4b6bc-4b75-45e0-ade2-81ecc1375823)
+
 # Calgary AQHI Forecasting Tool
 
 This project is a machine learning-based forecasting tool for predicting Calgary’s Air Quality Health Index (AQHI) using time series modeling. The goal is to help individuals—especially those with respiratory conditions—make informed decisions about outdoor activity based on short-term air quality forecasts.
